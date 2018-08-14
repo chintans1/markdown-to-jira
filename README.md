@@ -1,9 +1,7 @@
 # Markdown to JIRA
 
-
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/chintans98.markdown-jira.svg)](https://marketplace.visualstudio.com/items?itemName=chintans98.markdown-jira)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/chintans98.markdown-jira.svg)](https://marketplace.visualstudio.com/items?itemName=chintans98.markdown-jira)
-
 
 Markdown to JIRA is a Visual Studio Code extension to translate your Markdown to JIRA formatting or vice-versa in only one click.
 
