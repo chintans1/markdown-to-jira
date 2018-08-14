@@ -2,7 +2,7 @@
     "name": "markdown-jira",
     "displayName": "Markdown to JIRA",
     "description": "VSCode Extension for converting Markdown formatting to JIRA or vice-versa easily",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "chintans98",
     "author": {
         "name": "Chintan Shah"
