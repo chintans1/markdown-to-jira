@@ -10,9 +10,10 @@
     "engines": {
         "vscode": "^1.25.0"
     },
+    "homepage": "https://github.com/chintans1/markdown-to-jira/blob/master",
     "repository": {
         "type": "git",
-        "url": "git://github.com/chintans1/markdown-to-jira.git"
+        "url": "https://github.com/chintans1/markdown-to-jira.git"
     },
     "bugs": {
         "url": "https://github.com/chintans1/markdown-to-jira/issues"
