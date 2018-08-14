@@ -2,7 +2,6 @@ const vscode = require('vscode');
 const jira2md = require('jira2md');
 const path = require('path');
 
-
 /**
  * Helper functions below
  */

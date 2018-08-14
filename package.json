@@ -1,11 +1,21 @@
 {
     "name": "markdown-jira",
-    "displayName": "markdown-jira",
-    "description": "Translate Markdown to Jira Markdown or vice-versa",
-    "version": "0.0.1",
-    "publisher": "nothing",
+    "displayName": "Markdown to JIRA",
+    "description": "VSCode Extension for converting Markdown formatting to JIRA or vice-versa easily",
+    "version": "1.0.0",
+    "publisher": "chintans98",
+    "author": {
+        "name": "Chintan Shah"
+    },
     "engines": {
         "vscode": "^1.25.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/chintans1/markdown-to-jira.git"
+    },
+    "bugs": {
+        "url": "https://github.com/chintans1/markdown-to-jira/issues"
     },
     "categories": [
         "Other"
@@ -31,6 +41,9 @@
         "preinstall": "npm install jira2md",
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "node ./node_modules/vscode/bin/test"
+    },
+    "dependencies": {
+        "jira2md": "^2.0.3"
     },
     "devDependencies": {
         "@types/mocha": "^2.2.42",
