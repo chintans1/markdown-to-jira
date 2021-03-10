@@ -43,15 +43,13 @@
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "node ./node_modules/vscode/bin/test"
     },
-    "dependencies": {
-        "jira2md": "^2.0.3"
-    },
+    "dependencies": {},
     "devDependencies": {
         "@types/mocha": "^2.2.42",
         "@types/node": "^7.0.43",
         "eslint": "^4.11.0",
-        "jira2md": "^2.0.3",
+        "jira2md": "^2.1.0",
         "typescript": "^2.6.1",
-        "vscode": "^1.1.6"
+        "vscode": "^1.1.37"
     }
 }
